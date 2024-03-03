@@ -3,7 +3,7 @@
 
 # Briefly summarize the DrivePass project. Who was the client? What type of system did they want you to design?
 
-DriverPass noticed there were very few tools to help students pass their driving tests. Their research has found that more than 65% of the students applying for their driving license exams fail because all they had to prepare was previous tests. They wanted to provide students with practice exams online and on the road driver training. DriverPass wanted to develop a website that would allow users or customers to take online practice exams online and on-the-road training to better prepare them for the driving tests. They wanted the site to be available on all platforms where the users could make payments, make reservations, take exams and get assigned drivers for on-the-road training. 
+DriverPass noticed there were very few tools to help students pass their driving tests. Their research has found that more than 65% of the students applying for their driving license exams fail because all they had to prepare was previous tests. They wanted to provide students with practice exams online and on the road driver training. DriverPass wanted to develop a website that would allow users or customers to take practice exams online and on-the-road training to better prepare them for the driving tests. They wanted the site to be available on all platforms where the users could make payments, make reservations, take exams and get assigned drivers for on-the-road training. 
 
 # What did you do particularly well?
 
